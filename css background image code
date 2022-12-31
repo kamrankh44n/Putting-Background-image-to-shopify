@@ -1,0 +1,6 @@
+body,html{
+background: url({{ 'products6.png' \ assest-url }});
+background-attachment: fixed;
+background_size: cover;
+background-repeat: no-repeat;
+}
